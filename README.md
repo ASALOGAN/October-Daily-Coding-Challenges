@@ -27,16 +27,18 @@ Each day, I will:
 The repository is structured as follows:
 
 /October-Daily-Coding-Challenges 
-├── Day One 20/10/24 
-│ ├── problem-1.md # Description of the first LeetCode problem for the day 
-│ ├── solution-1.py # Solution to the first problem (can be in any language) 
-│ ├── problem-2.md # Description of the second LeetCode problem for the day (if applicable) 
-│ ├── solution-2.py # Solution to the second problem 
-│ ├── notes.md # Notes and explanation of the day's approach and learnings 
+├── Day One 20-10-24 
+│   ├── problem-1.md       # Description of the first LeetCode problem Maximum Distance 
+│   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
+│   ├── solution-1.py      # Solution to the first problem (in Python) 
+│   ├── problem-2.md       # Description of the second LeetCode problem Multiply Strings
+│   ├── solution-2.js      # Solution to the second problem (in JavaScript) 
+│   ├── notes.md           # Notes and explanation of the day's approach and learnings 
+
 
 ## Progress
 
-- **Day One 20/10/24:** Solved 1 problem each on arrays and strings.
+- **Day One 20-10-24:** Solved 2 problems—one on arrays (Maximum Distance in Arrays) and one on strings (Multiply Strings).
 
 ## Goals
 
