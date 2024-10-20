@@ -26,13 +26,17 @@ Each day, I will:
 
 The repository is structured as follows:
 
-/October-Daily-Coding-Challenges ├── Day One 20/10/24 │ ├── problem-1.md # Description of the first LeetCode problem for the day │ ├── solution-1.py # Solution to the first problem (can be in any language) │ ├── problem-2.md # Description of the second LeetCode problem for the day (if applicable) │ ├── solution-2.py # Solution to the second problem │ ├── notes.md # Notes and explanation of the day's approach and learnings ├── Day Two 21/10/24 │ ├── problem-1.md │ ├── solution-1.py │ ├── notes.md └── README.md
-
+/October-Daily-Coding-Challenges 
+├── Day One 20/10/24 
+│ ├── problem-1.md # Description of the first LeetCode problem for the day 
+│ ├── solution-1.py # Solution to the first problem (can be in any language) 
+│ ├── problem-2.md # Description of the second LeetCode problem for the day (if applicable) 
+│ ├── solution-2.py # Solution to the second problem 
+│ ├── notes.md # Notes and explanation of the day's approach and learnings 
 
 ## Progress
 
-- **Day One 20/10/24:** Solved 2-3 problems on arrays and strings.
-- **Day Two 21/10/24:** Focused on data structures, particularly stacks and queues.
+- **Day One 20/10/24:** Solved 1 problem each on arrays and strings.
 
 ## Goals
 
