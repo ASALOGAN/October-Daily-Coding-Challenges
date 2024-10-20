@@ -1,8 +1,6 @@
 # October-Daily-Coding-Challenges
 Daily coding challenges for October 2024. This repository contains solutions to coding challenges solved each day to improve problem-solving skills and consistency. Challenges are sourced from platforms like LeetCode and HackerRank, covering topics such as algorithms, data structures, and system design.
 
-# October Daily Coding Challenges
-
 Welcome to the **October Daily Coding Challenges** repository! This repository contains my solutions to daily coding challenges for the month of October 2024. The goal of this project is to improve problem-solving skills, algorithmic thinking, and consistency by committing solutions to GitHub every day.
 
 ## Overview
