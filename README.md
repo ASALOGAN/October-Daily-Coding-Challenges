@@ -35,10 +35,17 @@ The repository is structured as follows:
 │   ├── solution-2.js      # Solution to the second problem (in JavaScript) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings 
 
+/October-Daily-Coding-Challenges 
+├── Day One 20-10-24 
+│   ├── problem-1.md       # Description of the first LeetCode problem Implementing Stack using Queues 
+│   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
+│   ├── solution-1.py      # Solution to the first problem (in Python) 
+
 
 ## Progress
 
-- **Day One 20-10-24:** Solved 2 problems—one on arrays (Maximum Distance in Arrays) and one on strings (Multiply Strings).
+- **Day One 20-10-24:** Solved 2 problems —one on arrays (Maximum Distance in Arrays) and one on strings (Multiply Strings).
+- **Day Two 21-10-24:** Solved 1 problem on implementing a stack using queues. 
 
 ## Goals
 
