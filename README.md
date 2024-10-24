@@ -42,10 +42,22 @@ The repository is structured as follows:
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 
 /October-Daily-Coding-Challenges 
-├── Day One 20-10-24 
+├── Day Three 22-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode  Letter Combinations of a Phone Number
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
+
+/October-Daily-Coding-Challenges 
+├── Day Four 23-10-24 
+│   ├── problem-1.md       # Description of the first LeetCode Valid Parentheses
+│   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
+│   ├── solution-1.py      # Solution to the first problem (in Python) 
+
+/October-Daily-Coding-Challenges 
+├── Day Four 23-10-24 
+│   ├── problem-1.md       # Description of the first LeetCode Merge Two Sorted List
+│   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
+│   ├── solution-1.py      # Solution to the first problem (in Python)
 
 
 ## Progress
@@ -53,6 +65,8 @@ The repository is structured as follows:
 - **Day One 20-10-24:** Solved 2 problems —one on arrays (Maximum Distance in Arrays) and one on strings (Multiply Strings). (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20One%2020-10-24)
 - **Day Two 21-10-24:** Solved 1 problem on implementing a stack using queues. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Two%2021-10-24)
 - **Day Three 22-10-24** Solved 1 problem on Letter Combinations of a Phone Number. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Three%2022-10-24)
+- **Day Four 23-10-24** Solved 1 problem on Valid Parentheses. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Four%2023-10-24)
+- **Day Five 24-10-24** Solved 1 problem on Merge Two Sorted List. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Five%2024-10-24)
 
 ## Goals
 
