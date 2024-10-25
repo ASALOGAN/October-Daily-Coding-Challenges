@@ -1,4 +1,4 @@
-### **Notes on Problem 1: Merge Two Sorted List**
+### **Notes on Problem 1:  Binary Tree Inorder Traversal**
 
 #### **Intuition**
 The inorder traversal requires visiting nodes in the following sequence: left subtree, root node, and then right subtree. This traversal order suggests a natural recursive approach, where we apply the same logic at each node by first traversing its left subtree, then processing the current node's value, and finally traversing the right subtree.
