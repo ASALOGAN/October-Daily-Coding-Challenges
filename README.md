@@ -35,11 +35,13 @@ The repository is structured as follows:
 │   ├── solution-2.js      # Solution to the second problem (in JavaScript) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings 
 
+
 /October-Daily-Coding-Challenges 
 ├── Day Two 21-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Implementing Stack using Queues 
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
+
 
 /October-Daily-Coding-Challenges 
 ├── Day Three 22-10-24 
@@ -47,18 +49,25 @@ The repository is structured as follows:
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 
+
 /October-Daily-Coding-Challenges 
 ├── Day Four 23-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode Valid Parentheses
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 
+
 /October-Daily-Coding-Challenges 
-├── Day Four 23-10-24 
+├── Day Five 24-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode Merge Two Sorted List
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python)
 
+/October-Daily-Coding-Challenges 
+├── Day Six 25-10-24 
+│   ├── problem-1.md       # Description of the first LeetCode Binary Tree Inorder Traversal
+│   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
+│   ├── solution-1.py      # Solution to the first problem (in Python)
 
 ## Progress
 
@@ -67,6 +76,7 @@ The repository is structured as follows:
 - **Day Three 22-10-24** Solved 1 problem on Letter Combinations of a Phone Number. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Three%2022-10-24)
 - **Day Four 23-10-24** Solved 1 problem on Valid Parentheses. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Four%2023-10-24)
 - **Day Five 24-10-24** Solved 1 problem on Merge Two Sorted List. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Five%2024-10-24)
+- **Day Six 25-10-24** Solved 1 problem on  Binary Tree Inorder Traversal. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Six%2025-10-24)
 
 ## Goals
 
