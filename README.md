@@ -28,11 +28,12 @@ The repository is structured as follows:
 
 /October-Daily-Coding-Challenges 
 ├── Day One 20-10-24
-│   ├── problem-1.md       # Description of the first LeetCode problem Maximum Distance 
+│   ├── problem-1.md       # Description of the first LeetCode problem Maximum Distance in Arrays
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 │   ├── problem-2.md       # Description of the second LeetCode problem Multiply Strings
 │   ├── solution-2.js      # Solution to the second problem (in JavaScript) 
+│   ├── solution-2.py      # Solution to the second problem (in Python) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings 
 
 
@@ -45,29 +46,36 @@ The repository is structured as follows:
 
 /October-Daily-Coding-Challenges 
 ├── Day Three 22-10-24 
-│   ├── problem-1.md       # Description of the first LeetCode  Letter Combinations of a Phone Number
+│   ├── problem-1.md       # Description of the first LeetCode problem Letter Combinations of a Phone Number
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 
 
 /October-Daily-Coding-Challenges 
 ├── Day Four 23-10-24 
-│   ├── problem-1.md       # Description of the first LeetCode Valid Parentheses
+│   ├── problem-1.md       # Description of the first LeetCode problem Valid Parentheses
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 
 
 /October-Daily-Coding-Challenges 
 ├── Day Five 24-10-24 
-│   ├── problem-1.md       # Description of the first LeetCode Merge Two Sorted List
+│   ├── problem-1.md       # Description of the first LeetCode problem Merge Two Sorted Lists
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python)
 
 /October-Daily-Coding-Challenges 
 ├── Day Six 25-10-24 
-│   ├── problem-1.md       # Description of the first LeetCode Binary Tree Inorder Traversal
+│   ├── problem-1.md       # Description of the first LeetCode problem Binary Tree Inorder Traversal
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python)
+
+/October-Daily-Coding-Challenges 
+├── Day Seven 26-10-24 
+│   ├── problem-1.md       # Description of the first LeetCode problem Reverse Linked List
+│   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
+│   ├── solution-1.py      # Solution to the first problem (in Python) 
+│   ├── notes.md           # Notes and explanation of the day's approach and learnings
 
 ## Progress
 
@@ -77,6 +85,8 @@ The repository is structured as follows:
 - **Day Four 23-10-24** Solved 1 problem on Valid Parentheses. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Four%2023-10-24)
 - **Day Five 24-10-24** Solved 1 problem on Merge Two Sorted List. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Five%2024-10-24)
 - **Day Six 25-10-24** Solved 1 problem on  Binary Tree Inorder Traversal. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Six%2025-10-24)
+- **Day Seven 26-10-24** Solved 1 problem on Reverse Linked List. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Seven%2026-10-24)
+
 
 ## Goals
 
