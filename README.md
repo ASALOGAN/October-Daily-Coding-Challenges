@@ -87,6 +87,13 @@ The repository is structured as follows:
 │   ├── solution-2.py      # Solution to the second problem (in Python) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings
 
+/October-Daily-Coding-Challenges 
+├── Day Nine 28-10-24 
+│   ├── problem-1.md       # Description of the first LeetCode problem Two Sum
+│   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
+│   ├── solution-1.py      # Solution to the first problem (in Python) 
+│   ├── notes.md           # Notes and explanation of the day's approach and learnings
+
 ## Progress
 
 - **Day One 20-10-24:** Solved 2 problems —one on arrays (Maximum Distance in Arrays) and one on strings (Multiply Strings). (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20One%2020-10-24)
@@ -97,8 +104,7 @@ The repository is structured as follows:
 - **Day Six 25-10-24** Solved 1 problem on  Binary Tree Inorder Traversal. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Six%2025-10-24)
 - **Day Seven 26-10-24** Solved 1 problem on Reverse Linked List. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Seven%2026-10-24)
 - **Day Eight 27-10-24** Solved 2 problems — one on Remove Duplicates from Sorted Array and another on Intersection of Two Linked Lists. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Eight%2027-10-24)
-
-
+- **Day Nine 28-10-24** Solved 1 problem on Two Sum. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Nine%2028-10-24)
 
 ## Goals
 
