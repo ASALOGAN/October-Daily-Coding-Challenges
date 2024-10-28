@@ -21,3 +21,26 @@ The problem requires reversing a singly linked list. The intuitive approach is t
 
 - **Space complexity:**  
   The space complexity is $$O(1)$$, as we are using a constant amount of extra space for the `prev`, `current`, and `next` pointers.
+
+
+### **Notes on Problem 2: Intersection of Two Linked Lists**
+
+#### **Intuition**
+The problem requires finding the intersection node of two singly linked lists. The intuitive approach is to use two pointers to traverse both lists. By switching the pointers to the head of the other list once they reach the end, we can align the remaining lengths of the lists, allowing us to find the intersection point.
+
+#### **Approach**
+1. Initialize two pointers, `pointerA` and `pointerB`, at the heads of `headA` and `headB`, respectively.
+2. Traverse both lists simultaneously:
+   - If `pointerA` reaches the end of its list, redirect it to the head of `headB`.
+   - If `pointerB` reaches the end of its list, redirect it to the head of `headA`.
+   - Move both pointers one step at a time.
+3. Continue this process until the pointers meet at the intersection node or both become `null` if there is no intersection.
+4. Return the intersection node or `null`.
+
+#### **Complexity**
+
+- **Time complexity:**  
+  The time complexity is $$O(n + m)$$, where `n` and `m` are the lengths of the two linked lists. This is because each pointer traverses each list at most once.
+
+- **Space complexity:**  
+  The space complexity is $$O(1)$$, as we are using a constant amount of extra space for the two pointers.
