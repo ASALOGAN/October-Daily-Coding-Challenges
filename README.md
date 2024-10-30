@@ -125,6 +125,8 @@ The repository is structured as follows:
 - **Day Eight 27-10-24** Solved 2 problems — one on Remove Duplicates from Sorted Array and another on Intersection of Two Linked Lists. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Eight%2027-10-24)
 - **Day Nine 28-10-24** Solved 1 problem on Two Sum. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Nine%2028-10-24)
 - **Day Ten 29-10-24** Solved 1 problem on Binary Tree Level Order Traversal. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Ten%2029-10-24)
+- **Day Eleven 30-10-24** Solved 1 problem on Best Time to Buy and Sell Stock and explored JavaScript ES6+ features including destructuring, arrow functions, and spread/rest operators. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Eleven%2030-10-24)
+
 
 ## Goals
 
