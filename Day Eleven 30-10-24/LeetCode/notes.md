@@ -1,3 +1,5 @@
+### **Notes on Problem 1: Best Time to Buy and Sell Stock**
+
 # Intuition
 The problem is about finding the maximum profit from a single buy-sell transaction. The key observation is that to maximize profit, we need to buy at the lowest price before selling at a higher price. Thus, we need to track the minimum price encountered so far and calculate potential profits at each step.
 
