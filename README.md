@@ -111,6 +111,13 @@ The repository is structured as follows:
 │   │   ├── notes.md       # Notes on JavaScript ES6+ features including destructuring, arrow functions, and spread/rest operators
 │   │   ├── examples.js    # Examples demonstrating the use of ES6+ features
 
+/October-Daily-Coding-Challenges 
+├── Day Twelve 31-10-24 
+│   ├── problem-1.md       # Description of the first LeetCode problem Climbing Stairs
+│   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
+│   ├── solution-1.py      # Solution to the first problem (in Python) 
+│   ├── notes.md           # Notes and explanation of the day's approach and learnings
+
 
 
 ## Progress
