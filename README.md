@@ -91,6 +91,7 @@ The repository is structured as follows:
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings
+```
 
 ## Progress
 
