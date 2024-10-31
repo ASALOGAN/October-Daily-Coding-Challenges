@@ -25,7 +25,7 @@ Each day, I will:
 ## Directory Structure
 
 The repository is structured as follows:
-
+```
 /October-Daily-Coding-Challenges 
 ├── Day One 20-10-24
 │   ├── problem-1.md       # Description of the first LeetCode problem Maximum Distance in Arrays
@@ -35,49 +35,31 @@ The repository is structured as follows:
 │   ├── solution-2.js      # Solution to the second problem (in JavaScript) 
 │   ├── solution-2.py      # Solution to the second problem (in Python) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings 
-
-
-/October-Daily-Coding-Challenges 
 ├── Day Two 21-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Implementing Stack using Queues 
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
-
-
-/October-Daily-Coding-Challenges 
 ├── Day Three 22-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Letter Combinations of a Phone Number
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
-
-
-/October-Daily-Coding-Challenges 
 ├── Day Four 23-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Valid Parentheses
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
-
-
-/October-Daily-Coding-Challenges 
 ├── Day Five 24-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Merge Two Sorted Lists
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python)
-
-/October-Daily-Coding-Challenges 
 ├── Day Six 25-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Binary Tree Inorder Traversal
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python)
-
-/October-Daily-Coding-Challenges 
 ├── Day Seven 26-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Reverse Linked List
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings
-
-/October-Daily-Coding-Challenges 
 ├── Day Eight 27-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Remove Duplicates from Sorted Array
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
@@ -86,22 +68,16 @@ The repository is structured as follows:
 │   ├── solution-2.js      # Solution to the second problem (in JavaScript) 
 │   ├── solution-2.py      # Solution to the second problem (in Python) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings
-
-/October-Daily-Coding-Challenges 
 ├── Day Nine 28-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Two Sum
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings
-
-/October-Daily-Coding-Challenges 
 ├── Day Ten 29-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Binary Tree Level Order Traversal
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings
-
-/October-Daily-Coding-Challenges 
 ├── Day Eleven 30-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Best Time to Buy and Sell Stock
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript)
@@ -110,15 +86,11 @@ The repository is structured as follows:
 │   ├── ES6+_Features
 │   │   ├── notes.md       # Notes on JavaScript ES6+ features including destructuring, arrow functions, and spread/rest operators
 │   │   ├── examples.js    # Examples demonstrating the use of ES6+ features
-
-/October-Daily-Coding-Challenges 
 ├── Day Twelve 31-10-24 
 │   ├── problem-1.md       # Description of the first LeetCode problem Climbing Stairs
 │   ├── solution-1.js      # Solution to the first problem (in JavaScript) 
 │   ├── solution-1.py      # Solution to the first problem (in Python) 
 │   ├── notes.md           # Notes and explanation of the day's approach and learnings
-
-
 
 ## Progress
 
