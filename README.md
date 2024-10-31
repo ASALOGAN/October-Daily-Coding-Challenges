@@ -133,6 +133,7 @@ The repository is structured as follows:
 - **Day Nine 28-10-24** Solved 1 problem on Two Sum. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Nine%2028-10-24)
 - **Day Ten 29-10-24** Solved 1 problem on Binary Tree Level Order Traversal. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Ten%2029-10-24)
 - **Day Eleven 30-10-24** Solved 1 problem on Best Time to Buy and Sell Stock and explored JavaScript ES6+ features including destructuring, arrow functions, and spread/rest operators. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Eleven%2030-10-24)
+- **Day Twelve 31-10-24** Solved 1 problem on Climbing Stairs. (https://github.com/ASALOGAN/October-Daily-Coding-Challenges/tree/main/Day%20Twelve%2031-10-24)
 
 
 ## Goals
